@@ -1,2 +1,2 @@
 # MEG_data
-MEG Data showing brain dipole vector field
+Jupyter notebook steps through MEG data processing to display brain dipole vector field.
